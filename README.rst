@@ -15,7 +15,7 @@ Currently implemented:
 - *collatz.py* - `Collatz conjecture`_
 - *factorial.py* - Factorial_
 - *fib.py* - `Fibonacci numbers`_
-- *gcd.py* - `Greatest common divisor`_ (Euclid's algorithm)
+- *gcd.py* - `Greatest common divisor`_ (Euclid's algorithm and Binary method)
 - *triangular_nums.py* - `Triangular numbers`_
 
 **sorting:**
